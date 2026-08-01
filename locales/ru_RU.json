@@ -1,0 +1,42 @@
+{
+  "localeName": "ru_RU",
+  "entries": {
+    "ui.exit": "Выход",
+    "ui.config": "Настройки",
+    "ui.review_creation": "Создать рецензию",
+    "ui.review_modify": "Редактирование рецензий",
+    "ui.review_view": "Просмотр рецензий",
+    "ui.review_delete": "Удаление рецензий",
+    "ui.exit_hint": "для выхода",
+
+    "ui.choose_action_request": "Выберите действие: ",
+    "ui.choose_action_request_mistake": "Введите порядковый номер действия!",
+
+    "ui.reviewbuilder.template_request": "Выберите шаблон для отзыва: ",
+    "ui.reviewbuilder.template_request_mistake": "Введенный текст пустой или не является числом!",
+    "ui.reviewbuilder.template_field_request": "Заполните поле: ",
+    "ui.reviewbuilder.template_field_request_mistake_boolean": "Логическое поле может быть только в двух состояниях (true/false или yes/no)!",
+    "ui.reviewbuilder.template_field_request_mistake_float": "Дробное поле не может содежать символы кроме цифр!",
+    "ui.reviewbuilder.template_field_request_mistake_text": "Текстовое поле не может быть пустым!",
+    "ui.reviewbuilder.template_field_request_mistake_computed": "Вычисляемое поле не может быть пустым!",
+
+    "ui.reviewbuilder.choose_review_request": "Выберите рецензию: ",
+    "ui.reviewbuilder.choose_review_request_mistake": "Выберите порядковый номер рецензии! ",
+
+    "ui.reviewbuilder.modify_field_request": "Введите новое значение поля",
+    "ui.reviewbuilder.modify_field_old_value": "текущее значение",
+    "ui.reviewbuilder.modify_choose_field_request": "Выберите поле для редактирования: ",
+    "ui.reviewbuilder.modify_choose_field_request_mistake": "Введите порядковый номер поля!",
+
+    "ui.configbuilder.field_choose_request": "Выберите поле для изменения: ",
+    "ui.configbuilder.field_choose_request_mistake": "Введите порядковый номер поля!",
+    "ui.configbuilder.old_value_preview": "текущее значение",
+    "ui.configbuilder.field_request": "Введите новое значение для поля ",
+    "ui.configbuilder.language_request": "Выберите локализацию",
+    "ui.configbuilder.field_request_text_mistake": "Значение поля не может быть пустым!",
+    "ui.configbuilder.field_request_num_mistake_not_num": "Значение должно быть целым числом!",
+    "ui.configbuilder.field_request_num_mistake_overflow": "Значение должно быть больше нуля!",
+    "ui.configbuilder.field_request_bool_mistake_not_bool": "Значение должно логическим [y/n]!",
+    "ui.configbuilder.field_request_language_mistake_overflow": "Значение должно быть в пределах"
+  }
+}

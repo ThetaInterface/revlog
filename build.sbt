@@ -1,0 +1,5 @@
+name := "revlog"
+version := "1.0"
+scalaVersion := "3.6.3"
+libraryDependencies += "org.jline" % "jline" % "3.26.1"
+libraryDependencies += "com.lihaoyi" %% "upickle" % "4.4.3"
